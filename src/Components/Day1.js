@@ -1,5 +1,7 @@
 import React,{useState} from 'react'
 import "../Styling/Day1.css"
+import Header from "../Components/Header"
+
 
 const Day1 = () => {
 
@@ -21,6 +23,7 @@ const Day1 = () => {
 
     return (
         <div className="day-1">
+        <Header />
             <div className="card">
              <span className="count">{add}</span>
                 <div className="buttons">
