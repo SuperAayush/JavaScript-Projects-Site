@@ -19,8 +19,8 @@ const Header = () => {
       </Offcanvas.Header>
       <Offcanvas.Body>
         <Nav className="justify-content-end flex-grow-1 pe-3">
-          <Nav.Link className="github" href="https://github.com/SuperAayush/100-Days-of-Python" target="_blank">Github link to Javascript code.</Nav.Link>
-          <Nav.Link className="github" href="https://github.com/SuperAayush/Python-Projects-Site" target="_blank">Github link to this site.</Nav.Link>
+          <Nav.Link className="github" href="https://github.com/SuperAayush/100-Days-of-JavaScript" target="_blank">Github link to Javascript code.</Nav.Link>
+          <Nav.Link className="github" href="https://github.com/SuperAayush/JavaScript-Projects-Site" target="_blank">Github link to this site.</Nav.Link>
         </Nav>
       </Offcanvas.Body>
     </Navbar.Offcanvas>
